@@ -1,2 +1,11 @@
-# Video-Game-Sales
-Video game sales from North America, Japan, the EU, Africa, and the rest of the world for 64,016 titles released from 1971-2024, including information like critic's score, genre, console, and more.
+Project Goal: Analyze global and regional video game sales trends over time, and identify the top-selling game titles in each region.
+
+Tools: Power BI, Microsoft Excel.
+
+Dataset: Available upon request.
+
+Key Insights: 
+ - 2008 recorded the highest global sales, totaling $583.11M.
+ - The top-selling title Globally was Grand Theft Auto V with a total of $64.29M.
+ - In the Japanese region, Year 2011 had the highest sales of $35.92M. 
+ - For North America, EU and Africa, and the rest of the world, the highest recorded sale year was 2008, with a total of $290.1M, $146.42M, and $71.59M respectively. 
