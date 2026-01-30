@@ -2,8 +2,6 @@ Project Goal: Analyze global and regional video game sales trends over time, and
 
 Tools: Power BI, Microsoft Excel.
 
-Dataset: Available upon request.
-
 Key Insights: 
  - 2008 recorded the highest global sales, totaling $583.11M.
  - The top-selling title globally was Grand Theft Auto V with a total of $64.29M.
